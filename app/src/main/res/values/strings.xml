@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1_POUDROUX</string>
+    <string name="numeroLabel">Numero</string>
+    <string name="numeroInput">Entrez le numero</string>
+    <string name="messageLabel">Message</string>
+    <string name="messageInput">Tapez le message</string>
+    <string name="buttonText">Envoyer</string>
+</resources>

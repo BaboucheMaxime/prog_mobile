@@ -1,0 +1,2 @@
+rootProject.name = "TP1_POUDROUX"
+include ':app'
